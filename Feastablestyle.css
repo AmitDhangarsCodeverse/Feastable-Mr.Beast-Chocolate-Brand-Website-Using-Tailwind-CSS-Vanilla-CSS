@@ -1,0 +1,25 @@
+.navigation-bar{
+ position: sticky;
+}
+.nav-item{
+ font-style: italic;
+}
+.btn-container{
+ margin-top:-470px;
+}
+.footer-banner{
+ background-image: url(FeastableImages/hero-collection-chocolate.svg);
+}
+.hero-container{
+ background-image: url(FeastableImages/paperboard-texture_95678-72.avif);
+}
+.cards-container{
+ background-image:url(FeastableImages/paperboard-texture_95678-72.avif);
+}
+.offer-banner{
+ background-image: url(FeastableImages/hero-collection-chocolate.svg);
+ background-size: cover;
+}
+.video-holder{
+ background-image: url(FeastableImages/dottedbackground.jpg);
+}
