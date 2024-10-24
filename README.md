@@ -1,4 +1,3 @@
-![Feastable-tabletview](https://github.com/user-attachments/assets/ff65bb65-1002-4473-8377-57d3b5800920)![Feastable-mobview3](https://github.com/user-attachments/assets/c77b3d32-a23e-440b-bd03-8daeb9dd4528)# Feastable-Mr.Beast-Chocolate-Brand-Website-Using-Tailwind-CSS-Vanilla-CSS
 
 Welcome to the Feastable Website Clone! This project is a replica of the Feastable website, designed to showcase the features and aesthetics of the original while providing an excellent user experience.
 
